@@ -6,7 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SP_2", "SP_2\SP_2.vcxproj", "{EE7438DA-678B-404C-9860-CEC76C808CFE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SP_2_2", "SP_2_2\SP_2_2.vcxproj", "{F9C81694-4B3A-49F6-AC23-7EAADBA53DC1}"
-EndProject
+EndProject 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
