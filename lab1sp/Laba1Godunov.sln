@@ -6,7 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba1Godunov", "Laba1Godunov.vcxproj", "{9C7D5D62-B5B0-4DB7-8859-7C5CE37F4822}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{685134BE-54F4-4612-9540-667FBCF35BFF}"
-	ProjectSection(SolutionItems) = preProject
+	ProjectSection(SolutionItems) = preProject 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
